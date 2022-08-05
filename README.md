@@ -31,4 +31,6 @@ Step 2: Type "javac *.java" => this will compile the game.
 
 Step 3: Type "java Nimsys" => this will run the game.
 
+Then you can play this game with your friends, or even with a built-in AI player (so hard to win xD).
+
 For more information and guidence abot how to play this game, please check the instruction after starting the game in 'help'.
