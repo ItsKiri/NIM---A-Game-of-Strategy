@@ -25,7 +25,7 @@ are chosen before each game commences.
 
 To play this game, please:
 
-Step 1: Navigate to the game directory.
+Step 1: Navigate to the game directory in your terminal.
 
 Step 2: Type "javac *.java" => this will compile the game.
 
