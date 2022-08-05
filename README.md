@@ -25,4 +25,8 @@ are chosen before each game commences.
 
 To play this game, please:
 
-Step1: navigate to the progame d
+Step 1: Navigate to the game directory.
+
+Step 2: Type "javac *.java" => this will compile the game.
+
+Step 3: Type "java nimsys" => this will run the game.
