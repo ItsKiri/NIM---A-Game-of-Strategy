@@ -22,3 +22,7 @@ turn.
 
 • The initial number of stones (n) and the upper bound (k) can be changed from game to game and
 are chosen before each game commences.
+
+To play this game, please:
+
+Step1: navigate to the progame d
